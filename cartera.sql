@@ -7,6 +7,7 @@
 #
 # Structure for table "erp"
 #
+CREATE DATABASE `cartera`;
 
 CREATE TABLE `erp` (
   `tipo_ident_erp` varchar(3) COLLATE utf8_spanish_ci DEFAULT NULL,
